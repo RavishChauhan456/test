@@ -1,0 +1,6 @@
+LowerCaseCount
+PasswordMinimumLength
+UpperCaseCount
+SpecialCharacterCount
+DigitCount
+IsCaseSensitive
